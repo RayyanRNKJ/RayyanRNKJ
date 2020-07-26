@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working as **Freelancer**
+- 💻 I’m currently working as **Freelancer**
 - :book: I’m currently learning **Javascript**
 - 👯 I’m looking to collaborate on **Python**
 - 💬 You can ask me about programming languages (Python,Html and Css) as a **Beginner**
