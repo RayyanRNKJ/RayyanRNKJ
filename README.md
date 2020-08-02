@@ -8,4 +8,4 @@
 - 👯 I’m looking to collaborate on **Python**
 - 💬 You can ask me about programming languages (Python,Html and Css) as a **Beginner**
 - 📫 How to reach me: rayyanwebofficial@gmail.com
-- ⚡ Fun fact: I am Kid from **Kerala, India**
+- ⚡ Fun fact: I am a Kid from **Kerala, India**
