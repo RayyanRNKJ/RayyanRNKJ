@@ -27,6 +27,8 @@ const Malayali = {
                       Member : "Kuttycoders",
                       Member : "TinkerHub",
                       Member : "MakerGram",
+                      Member : "DSC VAST",
+                      Member : "FOSS Point"
                    },
  askMeAbout: "Java, C, Python, HTML, CSS and JavaScript",
  challenge: "I am doing the Web Development Challenge",
