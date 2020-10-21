@@ -69,7 +69,7 @@ const Malayali = {
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RayyanRNKJ&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanrnkj&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aswinasok)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rayyanrnkj)
 
 ## 💻 My Latest Project
 
