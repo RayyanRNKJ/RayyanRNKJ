@@ -20,7 +20,7 @@ const Malayali = {
   name: "Rayyan Rasheed",
   mail: "rayyanwebofficial@gmail.com",
   pronouns: "he" | "him",
-  code: [Java, C, Python, HTML, CSS, JavaScript],
+  code: [Java, C, Python, HTML, CSS, JavaScript, Mongodb],
   tools: [VScode, PyCharm, Node.js, Eclipse],
   techCommunities: {
                       Member : "Crossroads",
@@ -30,7 +30,7 @@ const Malayali = {
                       Member : "DSC VAST",
                       Member : "FOSS Point"
                    },
- askMeAbout: "Java, C, Python, HTML, CSS and JavaScript",
+ askMeAbout: "Java, C, Python, Node JS, Handlebars, Mongodb, HTML, CSS and JavaScript",
  challenge: "I am doing the Web Development Challenge",
  fact: "I am a Kid from Kerala, India and a tech solver to beginners in programming"
 }
@@ -73,7 +73,7 @@ const Malayali = {
 
 ## 💻 My Latest Project
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayyanrnkj&repo=The-Web-Calculator)](https://github.com/RayyanRNKJ/The-Web-Calculator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayyanrnkj&repo=Basic-Node-JS-Shopping-Cart)](https://github.com/RayyanRNKJ/Basic-Node-JS-Shopping-Cart)
 
  <hr>
  
