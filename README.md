@@ -1,11 +1,10 @@
-<h1 align="center">👋 Hello, I'm Rayyan </h1>
-<h3 align="center">I am a Software Developer and a Tech Enthusiast</h3>
+
+![Cover](https://user-images.githubusercontent.com/64679235/137593800-2a256483-16ca-46a3-b6a1-b9c358517722.png)
 
 - 💻 I’m currently working as **Freelancer**
 - 👯 I’m looking to collaborate on **React JS and Node JS**
 - 💬 You can ask me about programming stuffs as an **Intermediate Level**
-- 📫 How to reach me: rayyanwebofficial@gmail.com
-- ⚡ Fun fact: I am a lazy guy when it comes to learning/doing **School Stuffs**
+- 📫 How to reach me: rayyanrnkj@gmail.com
 
 
 
