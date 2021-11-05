@@ -9,10 +9,10 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rayyan-rasheed-2623b41b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rayyan-rasheed-2623b41b3" height="20" width="20" /></a>
-<a href="https://twitter.com/RayyanRNKJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="RayyanRNKJ" height="20" width="20" /></a>
-<a href="https://www.instagram.com/rayyanrnkj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rayyanrnkj" height="20" width="20" /></a>
- <a href="https://t.me/RayyanRNKJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/RayyanRNKJ" height="20" width="20" /></a>
+ <a href="https://twitter.com/RayyanRNKJ" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="RayyanRNKJ" /></a>
+<a href="https://www.linkedin.com/in/rayyan-rasheed-2623b41b3/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rayyan-rasheed-2623b41b3" /></a>
+<a href="https://www.instagram.com/rayyanrnkj/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rayyanrnkj" /></a>
+ <a href="https://t.me/RayyanRNKJ" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="RayyanRNKJ" /></a>
 </p>
 
 ## ⚡ Technologies I Use
