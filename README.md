@@ -1,4 +1,3 @@
-
 ![Cover](https://user-images.githubusercontent.com/64679235/137593800-2a256483-16ca-46a3-b6a1-b9c358517722.png)
 
 - 💻 I’m currently working as **Freelancer**
@@ -7,7 +6,7 @@
 - 📫 How to reach me: rayyanrnkj@gmail.com
 
 <p align="center">
- <a href="https://twitter.com/RayyanRNKJ" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="RayyanRNKJ" /></a>
+<a href="https://twitter.com/RayyanRNKJ" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="RayyanRNKJ" /></a>
 <a href="https://www.linkedin.com/in/rayyan-rasheed-2623b41b3/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rayyan-rasheed-2623b41b3" /></a>
 <a href="https://www.instagram.com/rayyanrnkj/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rayyanrnkj" /></a>
  <a href="https://t.me/RayyanRNKJ" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="RayyanRNKJ" /></a>
@@ -16,8 +15,10 @@
 <br/>
 
 ## 👨‍💻 Technologies I Use
+
 #### Frontend
-<div float: right;>
+
+<div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -29,20 +30,23 @@
 </div>
 
 #### Backend
-<div float: right;>
+
+<div>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 #### Package Manager
-<div float: right;>
+
+<div>
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
 </div>
 
 #### Deployment
-<div float: right;>
+
+<div>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
@@ -52,7 +56,8 @@
 </div>
 
 #### Other Tools
-<div float: right;>
+
+<div>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -64,7 +69,8 @@
 <br/>
 
 ## 📈 Stats
-[![RayyanRNKJ's github stats](https://github-readme-stats.vercel.app/api?username=RayyanRNKJ&bg_color=121212&text_color=f9f9f9&border_color=2a6ec9&show_icons=true&icon_color=2a6ec9)](https://github.com/RayyanRNKJ)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayyanRNKJ&layout=compact&bg_color=121212&text_color=f9f9f9&border_color=2a6ec9)](https://github.com/RayyanRNKJ/github-readme-stats)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RayyanRNKJ&bg_color=121212&text_color=f9f9f9&border_color=2a6ec9&show_icons=true&icon_color=2a6ec9">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayyanRNKJ&layout=compact&bg_color=121212&text_color=f9f9f9&border_color=2a6ec9">
+</p>
