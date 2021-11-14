@@ -15,7 +15,7 @@
 
 <br/>
 
-## ⚡ Technologies I Use
+## 👨‍💻 Technologies I Use
 #### Frontend
 <div float: right;>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -63,10 +63,8 @@
 
 <br/>
 
-<div float: right;>
+## 📈 Stats
+[![RayyanRNKJ's github stats](https://github-readme-stats.vercel.app/api?username=RayyanRNKJ&bg_color=121212&text_color=f9f9f9&border_color=2a6ec9&show_icons=true&icon_color=2a6ec9)](https://github.com/RayyanRNKJ)
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayyanRNKJ&layout=compact&bg_color=121212&text_color=f9f9f9&border_color=2a6ec9)](https://github.com/RayyanRNKJ/github-readme-stats)
 
-<br/>
-
-[![RayyanRNKJ's github stats](https://github-readme-stats.vercel.app/api?username=RayyanRNKJ&theme=dark&show_icons=true)](https://github.com/RayyanRNKJ)
