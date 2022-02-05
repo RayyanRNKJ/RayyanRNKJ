@@ -3,7 +3,7 @@
 - 💻 I’m currently working as **Freelancer**
 - 👯 I’m looking to collaborate on **React JS and Node JS**
 - 💬 You can ask me about programming stuffs as an **Intermediate Level**
-- 📫 How to reach me: rayyanrnkj@gmail.com
+- 📫 How to reach me: rayyanwebofficial@gmail.com
 
 <p align="center">
 <a href="https://twitter.com/RayyanRNKJ" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="RayyanRNKJ" /></a>
