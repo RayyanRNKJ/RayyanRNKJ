@@ -1,5 +1,4 @@
-![Cover(1)](https://user-images.githubusercontent.com/64679235/166493108-f303dcd0-4d3e-4a63-b8e2-7d49d43a70b3.png)
-
+![Cover(5)](https://user-images.githubusercontent.com/64679235/167595002-767601f7-5f4b-4041-bff9-0e2b1b70163d.png)
 
 - 💻 I’m currently working as **Freelancer**
 - 👯 I’m looking to collaborate on **React JS and Node JS**
