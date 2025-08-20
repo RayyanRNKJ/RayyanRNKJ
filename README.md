@@ -1,4 +1,4 @@
-![Cover(5)](https://user-images.githubusercontent.com/64679235/167595002-767601f7-5f4b-4041-bff9-0e2b1b70163d.png)
+![Cover(5)](Cover1.png)
 
 - 💻 I’m currently working as **Freelancer**
 - 👯 I’m looking to collaborate on **React JS and Node JS**
